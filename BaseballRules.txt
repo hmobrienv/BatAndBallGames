@@ -1,0 +1,33 @@
+                     **** The Rules of Baseball ****
+The Game: Played between two teams. Each teams goal is to score more points
+    than the opposing team. Each team alternates between offense and defense
+
+Teams: Each team has 9 players who actively play the game. On offense the 
+    one person bats at a time. On defense there are the outfielders: Right
+    field, Center Field, and Left Field; the infielders: First Baseman
+    Second Baseman, Third Baseman, and Shortstop. The Pitcher and Catcher
+    complete the fielding positions. 
+    
+    There are also players that do not play on the field. The bench players
+    who fill in for injuries and fatigue and the bullpen who replace pitchers
+
+The Field: The game is played on a field enclosed by two perpendicular foul
+    lines and an outfield fence. The infield is a square separated by 90 foot
+    bases(first base, second base, third base, and home), the goal is for
+    players to run all the way around the bases without being called out.
+    The outfield is beyond the bases.
+
+Rules: The game is played in 9 innings unless the game is still tied.
+    Each team getting its opportunity to hit. The away team bats first. Teams
+    can only score when playing offense. The hitters goal is to advance as
+    many bases as possible by hitting the ball into the field. If the ball 
+    is hit out of the field, the player may run the bases freely and score.
+    A player is called out if the ball is caught before touching the ground
+    or the ball reaches the base before they are able to run to the base.
+
+    The game is over if the home team scores more than the away team by the 
+    end of the away teams opportunity to bat in the 9th inning or the home
+    team scores the tie-breaking run in the 9th inning or later. The away team
+    wins if they are able to score more than the home team and keep their lead
+    after the home teams opportunity to hit in the 9th inning or later.
+
