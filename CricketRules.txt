@@ -1,0 +1,25 @@
+                   ****Cricket Rules*****
+The Game: Cricket is played between two teams. The goal is to score more 
+points then the opposing team. Each team alternates between offense and 
+defense. In the implementation of cricket, we are using the rules of
+twenty20 cricket.
+
+Teams: Each team has 12 players per team. Only eleven players play on the
+field any even given time, the twelth person being the substitute for any 
+injured player. 
+
+The Field: Cricket is played on a elliptical field. Batting occurs on 
+the pitch where two batters from the offensive side take turns trying
+to hit the ball and score runs. The boundary of the field is the outfield
+wall.
+
+Rules: Twenty20 Cricket is a shorter from of cricket that spans two
+innings. Each team is given the opportunity to bat. It is a shorter 
+form of Test cricket which can take multiple days to complete. On offense 
+two batters take turns trying to hit a ball that is bowled by the opposing
+teams bowler. When the ball is hit the two batter run between the pitch
+crossing back and forth to score points. This continues until the 
+batter has faced a total of 6 balls bowled or he his dismissed and called
+out. Each team continues batting and tries to score runs until they have
+10 of their 11 batters dismissed or they have reached 20 overs. 
+
